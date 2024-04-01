@@ -40,10 +40,10 @@ Location 2:
 ## Output
 
 From Location 1 to Location 2:
-Bearing Degrees (True North): [computed bearing]
-Elevation in Degrees: [computed elevation angle]
-Down Range in Meters: [computed downrange distance]
-Slant Range in Meters: [computed slant range distance]
+- Bearing Degrees (True North): [computed bearing]
+- Elevation in Degrees: [computed elevation angle]
+- Down Range in Meters: [computed downrange distance]
+- Slant Range in Meters: [computed slant range distance]
 
 ## Acknowledgments
 
